@@ -1,8 +1,8 @@
 <h1 align=center><font color=green>balabala</font></h1>
 
 ## 1. vscode
-- vscode
-- vscode insider
+- vscode(windows,)
+- vscode insider(windows,)
 
 
 
@@ -17,7 +17,7 @@
 
 
 ## 3. cursor
-- mac OS
+- mac OS(windows)
 
 
 
@@ -31,4 +31,7 @@
 
 
 
+
+## 5. browser
+- opera
 
