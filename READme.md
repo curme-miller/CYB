@@ -54,3 +54,6 @@
 ## 8. ubuntu-icon
 - McMojave-circle-black
 
+## 9. Anaconda3
+- Linux
+
