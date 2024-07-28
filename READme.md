@@ -1,4 +1,4 @@
-<h1 align=center><font color=green>balabala</font></h1>
+<h1 align=center>balabala</h1>
 
 ## 1. vscode
 - vscode(windows,)
@@ -18,6 +18,8 @@
 
 ## 3. cursor
 - mac OS(windows)
+- Cursor
+- macOS_linux
 
 
 
@@ -34,4 +36,21 @@
 
 ## 5. browser
 - opera
+- chrome
+
+
+
+## 6. winrar
+
+
+
+## 7. ubuntu-theme
+- Mojave-Dark-solid
+- WhiteSur-Dark
+
+
+
+
+## 8. ubuntu-icon
+- McMojave-circle-black
 
