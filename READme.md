@@ -57,3 +57,6 @@
 ## 9. Anaconda3
 - Linux
 
+## 10. Music
+- NetEase
+
